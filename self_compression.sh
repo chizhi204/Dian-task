@@ -33,8 +33,7 @@ gz)
 bz2)
 	tar -jxvf $1 -C $path;;
 *)
-	echo Unsupported formats.
-	echo Use the command self_compression.sh --list to know the supported format.
+	echo unsupported formats
 esac
 
 
