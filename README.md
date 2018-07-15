@@ -1,2 +1,1 @@
-# gitskills
-A new repository created on 19:26
+A program to calculate a number's factorial.
