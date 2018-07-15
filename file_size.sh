@@ -16,7 +16,6 @@ then
 	exit
 fi
 
-
 #Getting the right path of the files.
 if test -z $4
 then
