@@ -20,9 +20,9 @@ function factorial()
         	result=1
 
 	else
-        	let "dec=$num-1"
+        	let "temp=$num-1"
 		#Calling the function itself
-        	factorial $dec
+        	factorial $temp
 		#After calling the function many times,the result is (n-1)!
 		#So the result multiplies the input to get the final result n!.
         	let "result=$1 * $result"
