@@ -1,7 +1,6 @@
 #!/bin/bash
 #A program to calculate a number's factorial.
 
-
 #If the input is empty,output the usage and function.
 if test $# -eq 0
 then
