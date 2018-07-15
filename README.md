@@ -1,2 +1,2 @@
-# gitskills
-A new repository created on 19:26
+The 3 small tasks of the first Task.
+Written by chizhi
