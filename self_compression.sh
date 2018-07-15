@@ -42,20 +42,3 @@ bz2)
 *)
 	echo unsupported formats
 esac
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
