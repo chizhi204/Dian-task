@@ -1,2 +1,1 @@
-# gitskills
-A new repository created on 19:26
+A program to show top N largest files or directories in given path.
