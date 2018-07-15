@@ -1,7 +1,6 @@
 #!/bin/bash
 #Function : To show top N largest files or directories.
 
-
 #To show the usage and function of the program.
 if test $# -eq 0
 then
